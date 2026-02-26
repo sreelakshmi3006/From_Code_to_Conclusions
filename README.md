@@ -31,6 +31,8 @@ By working through the notebooks in this repository, a learner should be able to
 ---
 
 ## Repository Structure
+
+```
 From_Code_to_Conclusions/
 │
 ├── 00_Setup
@@ -46,7 +48,7 @@ From_Code_to_Conclusions/
 ├── 10_Data_Visualisation
 ├── 11_Mini_Analytical_Exercises
 └── datasets
-
+```
 
 Each module contains:
 - Concept notebooks
